@@ -1,15 +1,31 @@
-img {
-    widows: 200px;
+#logo {
+    width:500px 
 }
 
-background red
+#logo {
+   height:145px
+}
+
+#cookie {
+    width: 80px
+}
+
+#header {
+    font-family: arial
+}
+
+#header {
+    color:#227972;
+}
 
 body {
     text-align: center;
+    background: #344564
 }
 
 body {
     text-align: center;
-    font-family: "Comic sans MS";
-    color:teal;
+    font-family: "Chiller";
+    color:#CB4625;
+    font-size: x-large
 }
